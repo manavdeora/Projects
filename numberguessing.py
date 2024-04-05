@@ -16,5 +16,6 @@ def GuessTheNumber(Num):
             print(f"Too low and you have only {no_of_chances-i} chances")
             i+=1 
 
-GuessTheNumber(12)
+random_number = 57
+GuessTheNumber(random_number)
 
